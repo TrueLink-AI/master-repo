@@ -1,3 +1,15 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/TrueLink-AI/frontend.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/TrueLink-AI/ai
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/TrueLink-AI/blockchain
+[submodule "database"]
+	path = database
+	url = https://github.com/TrueLink-AI/database
+[submodule "nlp"]
+	path = nlp
+	url = https://github.com/TrueLink-AI/nlp
